@@ -1,5 +1,5 @@
 // API configuration for Python backend
-const API_BASE_URL = 'https://q-transfer-backend.onrender.com/';
+const API_BASE_URL = 'https://q-transfer-backend.onrender.com';
 
 export interface EncryptedFile {
   id: string;
